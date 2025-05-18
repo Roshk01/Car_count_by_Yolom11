@@ -9,6 +9,10 @@ This project detects and counts **cars** in a video using **YOLOv8** for detecti
 
 
 
+https://github.com/user-attachments/assets/acbe857b-b4ed-4ff5-a0c3-9103c864b415
+
+
+
 
 ---
 
